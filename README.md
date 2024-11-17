@@ -38,6 +38,11 @@
 - Minimalistic design tailored for ease of use and quick navigation.  
 
 ---
+Screenshots: 
+![image](https://github.com/user-attachments/assets/b266336a-53e4-4ef8-be92-2fcb4712c979)
+![image](https://github.com/user-attachments/assets/9a35b7b4-2517-4156-9d7c-832357813698)
+
+---
 
 Feel free to explore the project and contribute! Your feedback and suggestions are highly valued. 😊  
 
