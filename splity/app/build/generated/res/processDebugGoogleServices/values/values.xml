@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">928497834881</string>
+    <string name="google_api_key" translatable="false">AIzaSyBJxL0ydUswRnfI79BbBUyC1eWlB7UJDV8</string>
+    <string name="google_app_id" translatable="false">1:928497834881:android:d9e31a166777ca1d18e680</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBJxL0ydUswRnfI79BbBUyC1eWlB7UJDV8</string>
+    <string name="google_storage_bucket" translatable="false">splity-f31e0e9f.appspot.com</string>
+    <string name="project_id" translatable="false">splity-f31e0e9f</string>
+</resources>

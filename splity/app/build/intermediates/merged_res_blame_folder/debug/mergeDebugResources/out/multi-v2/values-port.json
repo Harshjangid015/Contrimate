@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.splity.app-mergeDebugResources-58:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Owner\\.gradle\\caches\\transforms-4\\a3752a0e6d5405efb30e65dac2a8e4ea\\transformed\\appcompat-1.7.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

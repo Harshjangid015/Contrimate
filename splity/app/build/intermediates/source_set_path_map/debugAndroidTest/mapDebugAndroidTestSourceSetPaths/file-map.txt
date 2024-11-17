@@ -1,0 +1,5 @@
+com.example.splity.test.app-core-1.6.1-0 C:\Users\Owner\.gradle\caches\transforms-4\ccf71d2c3e52063eea17a102973db268\transformed\core-1.6.1\res
+com.example.splity.test.app-androidTest-1 D:\github\splity\app\build\generated\res\resValues\androidTest\debug
+com.example.splity.test.app-mergeDebugAndroidTestResources-2 D:\github\splity\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.splity.test.app-mergeDebugAndroidTestResources-3 D:\github\splity\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.splity.test.app-debugAndroidTest-4 D:\github\splity\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

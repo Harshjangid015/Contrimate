@@ -1,0 +1,3 @@
+com.example.splity.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
