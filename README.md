@@ -1,8 +1,3 @@
-# Contrimate
-Here’s a concise and professional **GitHub project description** for your **ContriMate** project:
-
----
-
 # ContriMate  
 **Simplified Expense Management for Groups and Individuals**  
 
